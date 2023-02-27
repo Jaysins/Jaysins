@@ -22,7 +22,7 @@
 <a href="https://medium.com/jaysonkaeze" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/jayson-kaeze" target="_blank">
+<a href="https://stackoverflow.com/users/8238453/jayson-kaeze" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/jaysins" target="_blank">
