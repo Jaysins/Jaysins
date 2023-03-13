@@ -33,7 +33,7 @@
 
 
 ### Glad to see you here!  
-I’m a python developer with 4 years of experience. An analytical and solutions-oriented software development professional with extensive experience driving complex, large-scale technical projects covering software/database/network development, product implementation, and technical support. Special expertise in assessing risk and translating innovative ideas into technology solutions.
+I am a python developer with 4 years of experience. An analytical and solutions-oriented software development professional with extensive experience driving complex, large-scale technical projects covering software/database/network development, product implementation, and technical support. Special expertise in assessing risk and translating innovative ideas into technology solutions.
 
 I have years of expertise with Python (Flask, Django, and Falcon), and JavaScript (Node js). In addition to my technical expertise, I also possess skills in effective communication, discipline, leadership, teamwork, critical thinking, and problem-solving. I gain satisfaction from making my clients and organization happy by completing my task effectively and on time.
 
