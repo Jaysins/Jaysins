@@ -33,13 +33,8 @@
 
 
 ### Glad to see you here!  
-I am a python developer with 4 years of experience. An analytical and solutions-oriented software development professional with extensive experience driving complex, large-scale technical projects covering software/database/network development, product implementation, and technical support. Special expertise in assessing risk and translating innovative ideas into technology solutions.
 
-I have years of expertise with Python (Flask, Django, and Falcon), and JavaScript (Node js). In addition to my technical expertise, I also possess skills in effective communication, discipline, leadership, teamwork, critical thinking, and problem-solving. I gain satisfaction from making my clients and organization happy by completing my task effectively and on time.
-
-In my spare time I love to listen to music, play games and watch movies.  
-  
-
+I have years of expertise with Python (Flask, Django, and Falcon), and JavaScript (Node js).
 <br/>  
 
 
@@ -55,7 +50,7 @@ In my spare time I love to listen to music, play games and watch movies.
 - ❓ Ask me about anything related to Python and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep night shift switched on at all times   
 
 
 </td><td valign="top" width="50%">
